@@ -1,0 +1,15 @@
+body{
+    font-family: 'poppins',sans-serif;
+}
+.banners{
+    background-image: url(..//portfolio/bootstrap.img/banner1.jpg);
+    padding: 250px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.presentation:hover{
+    background-color: lightgrey;
+    color:white;
+    border-radius: 10px;
+    transition: 1ms;
+}
